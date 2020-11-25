@@ -5,4 +5,4 @@ Slides and Code for the first AI4People workshop on the 8.+9. August 2020.
 
 Just for reference and I hope you can star⭐ me.
 
-g 
+ 
