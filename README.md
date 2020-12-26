@@ -1,5 +1,6 @@
 # First AI for People - Workshop
 *******************************************************
+dsf erfr erfer rf
 
 Slides and Code for the first AI4People workshop on the 8.+9. August 2020.
 
