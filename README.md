@@ -1,6 +1,6 @@
 # First AI for People - Workshop
 *************************************************
-gdjy gvf yug uyggvty
+gdjy gvf yuguyggvty
 
 Slides and Code for the first AI4People workshop on the 8.+9. August 2020.
 
